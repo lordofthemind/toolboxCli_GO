@@ -1,0 +1,16 @@
+.
+├── LICENSE
+├── cmd
+│   ├── info
+│   │   ├── diskUsage.go
+│   │   └── info.go
+│   ├── net
+│   │   ├── net.go
+│   │   └── ping.go
+│   └── root.go
+├── go.mod
+├── go.sum
+├── main.go
+└── tree.txt
+
+4 directories, 10 files
