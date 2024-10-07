@@ -4,7 +4,7 @@
 │   ├── info
 │   │   ├── diskUsage.go
 │   │   └── info.go
-│   ├── net
+│   ├── network
 │   │   ├── net.go
 │   │   └── ping.go
 │   └── root.go
